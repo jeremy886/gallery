@@ -4,7 +4,8 @@ This is a place for me to show my assignment for the coursea course:
 [Responsive Design](https://www.coursera.org/learn/responsivedesign)
 
 
-# Instructions
+# Practice Peer-graded Assignment: OPTIONAL: Photo Gallery
+## Instructions from the instructor Colleen van Lent
 
 Create a Responsive Photo Gallery
 Review criterialess 
